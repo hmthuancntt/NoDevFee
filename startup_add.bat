@@ -1,0 +1,1 @@
+start NoDevFee.exe /s
