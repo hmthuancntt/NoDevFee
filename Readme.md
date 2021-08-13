@@ -28,6 +28,13 @@
  - Support naming by wallet format : YouWallet.Name 
 ###
 
+# VIDEO:
+#### Nodevfee 1.2
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/yrvUSn6lOBg/0.jpg)](http://www.youtube.com/watch?v=yrvUSn6lOBg "Example")
+
+#### How it work?
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/ChgrwLW1Ikg/0.jpg)](http://www.youtube.com/watch?v=ChgrwLW1Ikg "How it work")
+
 ==============================================================
 # CHANGELOG:
   v1.2\
@@ -35,7 +42,7 @@
 
   v1.1\
 	- Add more log, count devfee share\
-	- Support wallet name with format (Wallet.Name)\
+	- Support wallet name with format (Wallet.Name)
 
   v1.0\
     - First release
