@@ -1,4 +1,4 @@
-﻿# MINIMAL YOUR DEVFEE ETHEREUM
+# MINIMAL YOUR DEVFEE ETHEREUM
  Work with all version of PhoenixMiner (lastest is 5.6d)
 ###
 
@@ -9,15 +9,15 @@
 ###
 
 # COMMAND:
- start NoDevFee.exe YourWallet
- start NoDevFee.exe YourWallet Port
+ start NoDevFee.exe YourWallet\
+ start NoDevFee.exe YourWallet Port\
  start NoDevFee.exe YourWallet Port IsMinimize
 ###
 
 # EXAMPLE:
- start NoDevFee.exe 0xE4c8932d74C8D891d8889C084BD6e89CBa255999
- start NoDevFee.exe 0xE4c8932d74C8D891d8889C084BD6e89CBa255999 14444
- start NoDevFee.exe 0xE4c8932d74C8D891d8889C084BD6e89CBa255999 5555 true
+ start NoDevFee.exe 0xE4c8932d74C8D891d8889C084BD6e89CBa255999\
+ start NoDevFee.exe 0xE4c8932d74C8D891d8889C084BD6e89CBa255999 14444\
+ start NoDevFee.exe 0xE4c8932d74C8D891d8889C084BD6e89CBa255999 5555 true\
  start NoDevFee.exe 0xE4c8932d74C8D891d8889C084BD6e89CBa255999.FEE01 5555 true
 ###
 
@@ -30,12 +30,12 @@
 
 ==============================================================
 # CHANGELOG:
-  v1.2
+  v1.2\
 	- Fix pool protocol
 
-  v1.1
-	- Add more log, count devfee share
-	- Support wallet name with format (Wallet.Name)
+  v1.1\
+	- Add more log, count devfee share\
+	- Support wallet name with format (Wallet.Name)\
 
-  v1.0
+  v1.0\
     - First release
